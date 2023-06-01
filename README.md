@@ -9,7 +9,7 @@ Faça um algoritmo para ler:
 * `Quantidade maxima em estoque`;
 * `Quantidade minima em estoque`.
 
-Calcular e escrever a `quantidade media` ((quantidade media = quantidade maxima + quantidade minima)/2).
+Calcular e escrever a `quantidade media` ((quantidade media = quantidade maxima + quantidade minima) / 2).
 
 Se a quantidade em estoque for maior ou igual a quantidade media escrever a mensagem `Não efetuar compra`, senão escrever a mensagem `Efetuar compra`.
 
